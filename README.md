@@ -1,6 +1,6 @@
 tcp-ip_stack
 ============
 
-Implementación de la pila TCP/IP propia. Proyecto a largo plazo en tiempo libre.
+Emulador web de la pila TCP/IP de la interacción entre capas, en cuanto a cabeceras que se añaden en cada una.
 
-Own implementation of the TCP/IP stack. Long-time project developed in my free-time.
+Web emulator of TCP/IP stack of layer interaction, relative to added headers in each one.
